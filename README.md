@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Unity 2D Game Developer<br>- Web full stack student</p>
+<p align="left">- Unity 2D Game Dev<br>- Web Full stack student</p>
 
 ###
 
@@ -38,6 +38,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vinicius10079&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
