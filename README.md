@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Unity 2D Game Dev<br>- Web Full stack student</p>
+<p align="left">- Unity 2D Game Developer<br>- Web full stack student</p>
 
 ###
 
